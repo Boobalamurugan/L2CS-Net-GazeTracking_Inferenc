@@ -6,9 +6,6 @@
 
 ---
 
-## For more info visit the [Official Repository](https://github.com/Ahmednull/L2CS-Net)
-
-
 ## 📥 Installation
 
 ### **1️⃣ Clone the Repository**
@@ -36,6 +33,9 @@ Run the Inference Script
 ```bash
 python main.py --video_path <path-to-video> --model_path <path-to-model> 
 ```
+
+## For more info about L2CS-Net visit the [Official Repository](https://github.com/Ahmednull/L2CS-Net)
+
 
 ## 🙌 Acknowledgements
 
