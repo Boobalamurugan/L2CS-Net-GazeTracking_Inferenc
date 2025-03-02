@@ -1,0 +1,10 @@
+face-detection @ git+https://github.com/elliottzheng/face-detection@786fbab7095623c348e251f1f0a8b323721c6a84
+numpy==1.26.4
+opencv-python==4.11.0.86
+pandas==2.2.3
+pillow
+timm==1.0.15
+torch==2.5.1
+torchvision==0.20.1
+tqdm==4.67.1
+scipy
