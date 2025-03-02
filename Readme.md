@@ -4,7 +4,6 @@
 
  It improves gaze direction prediction by separating pitch and yaw angles and using a combination of classification and regression techniques.
 
----
 
 ## 📥 Installation
 
