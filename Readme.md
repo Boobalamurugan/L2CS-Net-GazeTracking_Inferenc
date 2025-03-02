@@ -9,8 +9,8 @@
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/GazeTrackerUsingL2CS-Net.git
-cd GazeTrackerUsingL2CS-Net/Inference
+git clone https://github.com/Boobalamurugan/L2CS-Net-GazeTracking_Inference.git
+cd L2CS-Net-GazeTracking_Inference
 ```
 
 
